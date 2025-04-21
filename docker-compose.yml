@@ -1,0 +1,8 @@
+version: '3.9'
+
+services:
+  ideas-board:
+    build: .
+    ports:
+      - "5001:5001"
+    container_name: ideas-board
