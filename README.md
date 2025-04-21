@@ -1,5 +1,9 @@
 # 🧠 Ideas Board API
 
+![Docker](https://img.shields.io/badge/docker-ready-blue)
+![Flask](https://img.shields.io/badge/Flask-API-lightgrey)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A simple Flask-based API to submit, retrieve, and delete ideas — like startup ideas, reminders, or project concepts.  
 Data is stored locally using SQLite, and the project is containerized with Docker.
 
